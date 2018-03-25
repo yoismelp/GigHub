@@ -101,3 +101,4 @@ c:\users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource
 C:\Users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 C:\Users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionForGigAndGenre.resources
 C:\Users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTbl.resources
+C:\Users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
