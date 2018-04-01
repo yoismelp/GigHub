@@ -22,3 +22,65 @@ select,
 textarea {
     max-width: 280px;
 }
+
+span.field-validation-error {
+    color: red;
+    font-weight: bold;
+}
+
+/*Bootstrap Overrieds*/
+.navbar-brand{
+    font-weight: 700px;
+}
+
+body {
+    font-size: 17px;
+}
+
+.navbar-inverse {
+    background-color: #ff4342;
+    border-color: #ff4342;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav > .dropdown > a .caret {
+    border-top-color: #fff;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #ffffff;
+    background-color: #c65e5ee8;
+    body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: Lato,"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.form-group{
+    margin-bottom:20px;
+}
+
+.form-control {
+    font-size: 17px;
+    padding: 20px 15px;
+    border-radius: 9px;
+}
+
+.btn{
+    font-size: 17px;
+    border-radius: 9px;
+    padding: 7px 20px;
+}
+
+.form-control:focus {
+    border-color: #0937f3;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none; 
+}
+

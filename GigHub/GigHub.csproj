@@ -216,8 +216,17 @@
     <Compile Include="Migrations\201803251830371_AddForeignKeyPropertiesToGig.Designer.cs">
       <DependentUpon>201803251830371_AddForeignKeyPropertiesToGig.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201803312104131_AddedNameToRegisterPage.cs" />
+    <Compile Include="Migrations\201803312104131_AddedNameToRegisterPage.Designer.cs">
+      <DependentUpon>201803312104131_AddedNameToRegisterPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803312121560_AddedNameToRegisterPage1.cs" />
+    <Compile Include="Migrations\201803312121560_AddedNameToRegisterPage1.Designer.cs">
+      <DependentUpon>201803312121560_AddedNameToRegisterPage1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\ApplicationUser.cs" />
     <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\Gig.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -318,6 +327,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201803251830371_AddForeignKeyPropertiesToGig.resx">
       <DependentUpon>201803251830371_AddForeignKeyPropertiesToGig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803312104131_AddedNameToRegisterPage.resx">
+      <DependentUpon>201803312104131_AddedNameToRegisterPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803312121560_AddedNameToRegisterPage1.resx">
+      <DependentUpon>201803312121560_AddedNameToRegisterPage1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

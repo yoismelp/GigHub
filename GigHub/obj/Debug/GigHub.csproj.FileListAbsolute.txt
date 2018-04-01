@@ -102,3 +102,5 @@ C:\Users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTab
 C:\Users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionForGigAndGenre.resources
 C:\Users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTbl.resources
 C:\Users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
+C:\Users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddedNameToRegisterPage.resources
+C:\Users\yperez\Documents\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddedNameToRegisterPage1.resources
