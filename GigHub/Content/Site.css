@@ -28,6 +28,10 @@ span.field-validation-error {
     font-weight: bold;
 }
 
+.voffset4 {
+    margin-top: 80px;
+}
+
 /*Bootstrap Overrieds*/
 .navbar-brand{
     font-weight:700;
